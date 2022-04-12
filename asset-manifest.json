@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GetAdmitUniversityList/static/css/main.e3db94e7.chunk.css",
+    "main.js": "/GetAdmitUniversityList/static/js/main.92189c58.chunk.js",
+    "main.js.map": "/GetAdmitUniversityList/static/js/main.92189c58.chunk.js.map",
+    "runtime-main.js": "/GetAdmitUniversityList/static/js/runtime-main.905ec643.js",
+    "runtime-main.js.map": "/GetAdmitUniversityList/static/js/runtime-main.905ec643.js.map",
+    "static/js/2.35392b93.chunk.js": "/GetAdmitUniversityList/static/js/2.35392b93.chunk.js",
+    "static/js/2.35392b93.chunk.js.map": "/GetAdmitUniversityList/static/js/2.35392b93.chunk.js.map",
+    "static/js/3.7b39dd92.chunk.js": "/GetAdmitUniversityList/static/js/3.7b39dd92.chunk.js",
+    "static/js/3.7b39dd92.chunk.js.map": "/GetAdmitUniversityList/static/js/3.7b39dd92.chunk.js.map",
+    "index.html": "/GetAdmitUniversityList/index.html",
+    "static/css/main.e3db94e7.chunk.css.map": "/GetAdmitUniversityList/static/css/main.e3db94e7.chunk.css.map",
+    "static/js/2.35392b93.chunk.js.LICENSE.txt": "/GetAdmitUniversityList/static/js/2.35392b93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.905ec643.js",
+    "static/js/2.35392b93.chunk.js",
+    "static/css/main.e3db94e7.chunk.css",
+    "static/js/main.92189c58.chunk.js"
+  ]
+}
