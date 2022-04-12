@@ -1,0 +1,26 @@
+.menu {
+  background-color: #7427a0;
+  padding: 1.5rem;
+  color: whitesmoke;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu-heading {
+  margin: 0;
+  font-size: 2rem;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu-btn {
+  color: whitesmoke;
+  font-size: 1rem;
+  margin: 0.3rem;
+  background-color: #283647;
+  cursor: pointer;
+}
